@@ -1,0 +1,1 @@
+Esse é um arquivo teste para a criação de um pasta que conterá a parte do frontend das páginas do projeto.
